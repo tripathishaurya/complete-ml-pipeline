@@ -1,0 +1,17 @@
+2025-10-28 12:52:41,114 - data_preprocessing - DEBUG - Data loaded properly
+2025-10-28 12:52:41,114 - data_preprocessing - DEBUG - Starting preprocessing for DataFrame
+2025-10-28 12:52:41,116 - data_preprocessing - DEBUG - Target column encoded
+2025-10-28 12:52:41,121 - data_preprocessing - DEBUG - Duplicates removed
+2025-10-28 12:52:41,121 - data_preprocessing - ERROR - Error during text normalization: 
+
+
+2025-10-28 12:55:38,037 - data_preprocessing - DEBUG - Data loaded properly
+2025-10-28 12:55:38,037 - data_preprocessing - DEBUG - Starting preprocessing for DataFrame
+2025-10-28 12:55:38,039 - data_preprocessing - DEBUG - Target column encoded
+2025-10-28 12:55:38,044 - data_preprocessing - DEBUG - Duplicates removed
+2025-10-28 12:55:40,944 - data_preprocessing - DEBUG - Text column transformed
+2025-10-28 12:55:40,944 - data_preprocessing - DEBUG - Starting preprocessing for DataFrame
+2025-10-28 12:55:40,944 - data_preprocessing - DEBUG - Target column encoded
+2025-10-28 12:55:40,945 - data_preprocessing - DEBUG - Duplicates removed
+2025-10-28 12:55:41,712 - data_preprocessing - DEBUG - Text column transformed
+2025-10-28 12:55:41,719 - data_preprocessing - DEBUG - Processed data saved to ./data/interim
