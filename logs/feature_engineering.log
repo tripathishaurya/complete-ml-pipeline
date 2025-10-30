@@ -25,3 +25,21 @@
 2025-10-29 11:32:49,889 - feature_engineering - DEBUG - tfidf applied and data transformed
 2025-10-29 11:32:49,924 - feature_engineering - DEBUG - Data saved to ./data/processed/train_tfidf.csv
 2025-10-29 11:32:49,937 - feature_engineering - DEBUG - Data saved to ./data/processed/test_tfidf.csv
+2025-10-30 13:51:46,492 - feature_engineering - DEBUG - Parameters retrieved from params.yaml
+2025-10-30 13:51:46,497 - feature_engineering - DEBUG - Data loaded and NaNs filled from ./data/interim/train_processed.csv
+2025-10-30 13:51:46,498 - feature_engineering - DEBUG - Data loaded and NaNs filled from ./data/interim/test_processed.csv
+2025-10-30 13:51:46,523 - feature_engineering - DEBUG - tfidf applied and data transformed
+2025-10-30 13:51:46,556 - feature_engineering - DEBUG - Data saved to ./data/processed/train_tfidf.csv
+2025-10-30 13:51:46,560 - feature_engineering - DEBUG - Data saved to ./data/processed/test_tfidf.csv
+2025-10-30 13:55:15,711 - feature_engineering - DEBUG - Parameters retrieved from params.yaml
+2025-10-30 13:55:15,715 - feature_engineering - DEBUG - Data loaded and NaNs filled from ./data/interim/train_processed.csv
+2025-10-30 13:55:15,717 - feature_engineering - DEBUG - Data loaded and NaNs filled from ./data/interim/test_processed.csv
+2025-10-30 13:55:15,739 - feature_engineering - DEBUG - tfidf applied and data transformed
+2025-10-30 13:55:15,782 - feature_engineering - DEBUG - Data saved to ./data/processed/train_tfidf.csv
+2025-10-30 13:55:15,800 - feature_engineering - DEBUG - Data saved to ./data/processed/test_tfidf.csv
+2025-10-30 13:55:55,257 - feature_engineering - DEBUG - Parameters retrieved from params.yaml
+2025-10-30 13:55:55,261 - feature_engineering - DEBUG - Data loaded and NaNs filled from ./data/interim/train_processed.csv
+2025-10-30 13:55:55,263 - feature_engineering - DEBUG - Data loaded and NaNs filled from ./data/interim/test_processed.csv
+2025-10-30 13:55:55,287 - feature_engineering - DEBUG - tfidf applied and data transformed
+2025-10-30 13:55:55,318 - feature_engineering - DEBUG - Data saved to ./data/processed/train_tfidf.csv
+2025-10-30 13:55:55,338 - feature_engineering - DEBUG - Data saved to ./data/processed/test_tfidf.csv
